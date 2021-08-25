@@ -21,8 +21,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/pijani_kaktus_3'}
-- {icon: 'envelope',  link: 'mailto:mailto:noorahmedds@gmail.com'}
+- {icon: 'instagram', link: 'https://instagram.com/kaktuspijani'}
+- {icon: 'envelope',  link: 'mailto:mailto:kaktuspijani@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
