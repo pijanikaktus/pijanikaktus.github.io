@@ -5,7 +5,7 @@ permalink: /gallery
 ---
 
 ## Gallery
-_You can find my art spread all over **Saarbrücken**. The locations can be found out by referencing the pictures below.
+_You can find my art spread all over **Saarbrücken**. The locations can be found out by referencing the pictures below._
 
 {% include image.html image="store/1.JPG" %}
 {% include image.html image="store/2.JPG" %}
