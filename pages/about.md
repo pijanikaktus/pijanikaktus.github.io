@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Tamara Bulaic
+# Tamara Bulajic
 
 Da neko vidi a možda se i nekom svidi 🎨

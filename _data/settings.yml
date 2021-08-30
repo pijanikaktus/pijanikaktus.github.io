@@ -4,6 +4,7 @@
 menu:
 - {name: 'Art', url: ''}
 - {name: 'Blog',     url: 'blog'}
+- {name: 'Gallery',  url: 'gallery'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -11,11 +12,19 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Piece #0',  url: 'proj-0'}
 - {name: 'Piece #1',  url: 'proj-1'}
 - {name: 'Piece #2',  url: 'proj-2'}
 - {name: 'Piece #3',  url: 'proj-3'}
 - {name: 'Piece #4',  url: 'proj-4'}
 - {name: 'Piece #5',  url: 'proj-5'}
+- {name: 'Piece #6',  url: 'proj-6'}
+- {name: 'Piece #7',  url: 'proj-7'}
+- {name: 'Piece #8',  url: 'proj-8'}
+- {name: 'Piece #9',  url: 'proj-9'}
+- {name: 'Piece #10',  url: 'proj-10'}
+- {name: 'Piece #11',  url: 'proj-11'}
+- {name: 'Piece #12',  url: 'proj-12'}
 
 #-------------------------------
 # Contact Section
